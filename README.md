@@ -25,4 +25,4 @@ contraction force of the ventricle’s chambers and predict how fast the heart n
 maintain the cardiac output. The pacing action of the pacemaker is performed by electrodes attached
 to the ventricles or the atria of the patient.
 
-To read more, please refer to the report(https://github.com/agabhi017/Control-Systems-in-Artificial-Cardiac-Pacemaker/blob/main/Report/Final-Report-140171422114415.pdf).
+To read more, please refer to the [report](https://github.com/agabhi017/Control-Systems-in-Artificial-Cardiac-Pacemaker/blob/main/Report/Final-Report-140171422114415.pdf).
